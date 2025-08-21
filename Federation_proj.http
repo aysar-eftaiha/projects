@@ -1,0 +1,6 @@
+@Federation_proj_HostAddress = http://localhost:5116
+
+GET {{Federation_proj_HostAddress}}
+Accept: application/json
+
+###
